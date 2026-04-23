@@ -1,24 +1,11 @@
-# 📄 Mohammad Towseef - Resume
+# 📄 Resume - Mohammad Towseef
 
-Aspiring Java Full Stack Developer with hands-on experience in building scalable web applications using Spring Boot, React, and MySQL.
+Results-driven Java Full Stack Developer with expertise in Spring Boot, React, and MySQL. Passionate about building secure, scalable, and real-world applications.
 
-## 🚀 Skills
-- Java, Spring Boot, React.js
-- REST APIs, JWT Authentication
-- MySQL, SQL
-- Git & GitHub
+🔹 Skilled in REST API development and JWT-based authentication  
+🔹 Experience in full-stack development with modern technologies  
+🔹 Built real-world projects including hostel management system  
 
-## 💼 Projects
-- SmartHostel – Full-stack hostel management system with role-based authentication and dashboards
-- Student Management System – CRUD-based web application using Servlets and MySQL
+📌 Open to entry-level opportunities in Java / Full Stack Development  
 
-## 📌 Highlights
-- Strong understanding of OOP, MVC architecture, and backend development
-- Experience in building secure and efficient web applications
-
-## 🔗 Links
-- GitHub: https://github.com/towseef11
-- LinkedIn: https://linkedin.com/in/mohammad-towseef-778867326
-
-## 📥 Resume
-Download my resume from this repository.
+📥 Download Resume from this repository
